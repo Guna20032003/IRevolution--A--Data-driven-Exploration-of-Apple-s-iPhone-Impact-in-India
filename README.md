@@ -11,3 +11,6 @@ Tableau public Story 1 https://public.tableau.com/views/story1_16953942350900/St
 
 
 Tableau public Story 2 https://public.tableau.com/views/story2_16953943144230/Story2?:language=en-GB&:display_count=n&:origin=viz_share_link
+
+
+Demo vedio link https://drive.google.com/file/d/1nWn7Rx4So8b8cxJRjPyrYSfdoQXOUzso/view?usp=share_link
